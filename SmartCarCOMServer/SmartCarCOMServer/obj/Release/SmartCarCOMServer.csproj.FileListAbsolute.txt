@@ -1,0 +1,9 @@
+Z:\文稿\Design&DoingSth\COMServer\SmartCarCOMServer\SmartCarCOMServer\bin\Release\SmartCarCOMServer.exe.config
+Z:\文稿\Design&DoingSth\COMServer\SmartCarCOMServer\SmartCarCOMServer\bin\Release\SmartCarCOMServer.exe
+Z:\文稿\Design&DoingSth\COMServer\SmartCarCOMServer\SmartCarCOMServer\bin\Release\SmartCarCOMServer.pdb
+Z:\文稿\Design&DoingSth\COMServer\SmartCarCOMServer\SmartCarCOMServer\obj\Release\SmartCarCOMServer.main_form.resources
+Z:\文稿\Design&DoingSth\COMServer\SmartCarCOMServer\SmartCarCOMServer\obj\Release\SmartCarCOMServer.Form2.resources
+Z:\文稿\Design&DoingSth\COMServer\SmartCarCOMServer\SmartCarCOMServer\obj\Release\SmartCarCOMServer.Properties.Resources.resources
+Z:\文稿\Design&DoingSth\COMServer\SmartCarCOMServer\SmartCarCOMServer\obj\Release\SmartCarCOMServer.csproj.GenerateResource.Cache
+Z:\文稿\Design&DoingSth\COMServer\SmartCarCOMServer\SmartCarCOMServer\obj\Release\SmartCarCOMServer.exe
+Z:\文稿\Design&DoingSth\COMServer\SmartCarCOMServer\SmartCarCOMServer\obj\Release\SmartCarCOMServer.pdb
